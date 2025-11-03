@@ -133,12 +133,10 @@
 - Verbundenheit
 
 #place(end)[[2025-10-27 VL04]]
-= Nutzungskontext
-
-== Design-Prozesse
+= Design-Prozesse
 
 #table(columns: 2,
-  [Vorteile], [Nachteile],
+  [#emoji.thumb Vorteile], [#emoji.thumb.down Nachteile],
   [
     - Weniger Aufwand
     - Meilensteine definierbar
@@ -181,30 +179,43 @@
   2. Quantitativ
     - Fehlerraten
 
-=== Methoden
+== Methoden
 
--
-  - Beobachten: nicht beeinflusst durch frage
-  - Fragen: Verstehen was user denkt
--
-    - Quantitativ
-    - Qualitativ
--
-  - Users, Lead-Users
-  - Expert:innen
--
-  - Kontrollierte Umgebung
-    - Daten vergleichbar
-  - Kontextabh. Umgebung
-    - Legale Einschränkung: z.B. autonome Autos
+#[
+  #set table(columns: (1fr,)*2)
+  #show table.cell.where(y: 0): it => box(width: 1fr, inset: 12pt)[
+    #set align(horizon)
+    #show: strong
+    #it
+  ]
 
----
+  #table(
+    table.header[#emoji.eye Behavioral][#emoji.bubble.speech Attitudonal]
+  )[
+    - Verhalten objektiv prüfen
+  ][
+    - Gedanken verstehen
+  ]
+  #table(
+    table.header[#emoji.page.pencil Qualitativ][#emoji.numbers Quantitativ]
+  )
+  #table(
+    table.header[#emoji.woman User][#emoji.detective Expert:in]
+  )[
+    - Lead User: Repräsentiert Durchschnitt
+  ]
+  #table(
+      table.header[#emoji.microscope Kontrollierte Umgebung][#emoji.city Kontextabhängig]
+    )[
+      - Vergleichbar
+    ][
+      - Legale Einschränkung: z.B. autonome Autos
+    ]
+]
 
 - Generativ: Nutzereinsichten
 - Formativ: Evaluation während
 - Summativ: Evaluation nach
-
----
 
 === Planung
 
