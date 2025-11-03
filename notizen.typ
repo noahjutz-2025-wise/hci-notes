@@ -267,22 +267,30 @@
 
 #emoji.bubble.speech Attitudonal #emoji.numbers Quantitativ
 
-- Institutional Review Board (IRB)
-- Oberflächliche Daten
-- Probleme
-  - Nur Ja angekreuzt
-  - Unmögliche Angabe
-  - Rechtschreibfehler
-- Planung
-  - Ziel, Zielgruppe, Dauer in min
-  - Statistische Analyse im Vorfeld planen
-- Antworten
-  - Offen
-  - Ja/nein
-  - Multiple choice
+#table(
+  columns: 2,
+  [Planung], [
+    + Ziel festlegen
+    + Stakeholder identifizieren
+    + Statistische Analyse im Vorfeld planen
+    + Dauer in min festlegen
+  ],
+  [Probleme], [
+    - Teilnehmer kreuzt auffällig $->$ nicht sofort aussortieren
+    - Unmögliche Angabe $->$ ggf. entfernen oder gesamten Bogen entfernen
+    - Rechtschreibfehler $->$ nur bei klarer Intention korregieren
+  ],
+  [Fragen], [
+    - Offen
+    - Ja/Nein
     - Likert Skala
-- Tools
-  - Lime Survey
+  ],
+  [Output], [
+    - Oberflächliche Daten
+  ]
+)
+
+- Institutional Review Board (IRB)
 - Schlechte Fragen
   - Redundante Fragen
   - Negation
