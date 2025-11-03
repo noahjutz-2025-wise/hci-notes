@@ -236,9 +236,9 @@
 #place(end)[2025-11-03 VL05]
 = Datenerhebungsmethoden
 
-== Befragung
+- Es gibt Befragungs- und Beobachtungsmethoden.
 
-=== Umfrage
+== Umfrage
 
 - Institutional Review Board (IRB)
 - Oberflächliche Daten
@@ -265,7 +265,7 @@
   - Kurz
 - _TODO_ Zusammenfassendes youtube video anschauen
 
-=== Fokus Gruppe
+== Fokus Gruppe
 
 - 5-10 Teilnehmer:innen
 - _TODO_ Youtube video anschauen
@@ -275,22 +275,17 @@
 - Planung
   - Screening Fragebogen
 
---- (Observation) ---
+== Shadowing
 
-== Beobachtung
-
-- (Halb-)strukturiert
-
-=== Shadowing
 - Natürlich
 - Kontrolliert (Aufgaben sind vorgegeben)
 - Partizipativ
 
-=== Contextual Inquiry
+== Contextual Inquiry
 
 - Ad hoc interview im Kontext
 
-=== Diary Studies
+== Diary Studies
 
 - Verhaltensweisen, Gewohnheiten, Szenarien
 - Strukturierter Output
