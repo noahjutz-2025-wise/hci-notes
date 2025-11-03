@@ -234,9 +234,32 @@
 - Summativ: Evaluation nach
 
 #place(end)[2025-11-03 VL05]
-= Datenerhebungsmethoden
+= Primäre Datenerhebungsmethoden
 
 - Es gibt Befragungs- und Beobachtungsmethoden.
+
+== Interview
+
+- (Halb-)strukturiert möglich
+
+#table(
+  columns: 2,
+  [Planung], [
+    + Ziel festlegen
+    + Stakeholder identifizieren
+    + Übergeordnete Fragen stellen
+  ],
+  [Fragen], [
+    - Offen
+  ],
+  [Ablauf], [
+    + Einführung in Thematik
+    + Zustimmungserklärung
+  ],
+  [Output], [
+    - Einstellungen/Ansichten/Gefühle
+  ]
+)
 
 == Umfrage
 
