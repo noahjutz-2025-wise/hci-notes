@@ -240,7 +240,7 @@
 
 == Interview
 
-- (Halb-)strukturiert möglich
+#emoji.bubble.speech Attitudonal #emoji.page.pencil Qualitativ
 
 #table(
   columns: 2,
@@ -261,7 +261,11 @@
   ]
 )
 
+- (Halb-)strukturiert möglich
+
 == Umfrage
+
+#emoji.bubble.speech Attitudonal #emoji.numbers Quantitativ
 
 - Institutional Review Board (IRB)
 - Oberflächliche Daten
@@ -290,6 +294,8 @@
 
 == Fokus Gruppe
 
+#emoji.bubble.speech Attitudonal #emoji.page.pencil Qualitativ
+
 - 5-10 Teilnehmer:innen
 - _TODO_ Youtube video anschauen
 - Zweck
@@ -300,15 +306,21 @@
 
 == Shadowing
 
+#emoji.eye Behavioral
+
 - Natürlich
 - Kontrolliert (Aufgaben sind vorgegeben)
 - Partizipativ
 
 == Contextual Inquiry
 
+#emoji.eye Behavioral
+
 - Ad hoc interview im Kontext
 
 == Diary Studies
+
+#emoji.eye Behavioral #emoji.numbers Quantitativ
 
 - Verhaltensweisen, Gewohnheiten, Szenarien
 - Strukturierter Output
