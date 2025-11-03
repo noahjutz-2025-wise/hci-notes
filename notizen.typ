@@ -6,9 +6,7 @@
 #outline()
 
 #place(end)[[2025-10-06 VL01]]
-= Einführung
-
-== Organisatorisches
+= Organisatorisches
 
 - Termine
   - 24.11.2025 Zwischenpräsentation
@@ -27,7 +25,7 @@
     - Inhalte: Kontext, Methoden, Anforderungen
     - Wird nicht benotet
 
-== Definitionen
+= Definitionen
 
 #table(columns: 2,
   [Human Computer Interaction \ (VL01)], [
@@ -54,6 +52,21 @@
     - Nur während der Nutzung
   ],
 )
+
+== User Experience
+
+- Value
+- Usability
+- Adoptability
+- Desirability
+
+== Usability
+
+- Erlernbarkeit
+- Nutzer bringen Erfahrung
+- Wahrnehmung: Top-Down oder Bottom-Up
+- Tunnelblick, Change Blindness
+
 
 #place(end)[[2025-10-13 VL02]]
 = Historie
@@ -107,20 +120,6 @@
 
 - *Miller's Law:* 7 $plus.minus$ 2
 - *Wall of Text:* Zusammenfassung, (Unter-)Überschriften, markieren
-
-== User Experience
-
-- Value
-- Usability
-- Adoptability
-- Desirability
-
-== Usability
-
-- Erlernbarkeit
-- Nutzer bringen Erfahrung
-- Wahrnehmung: Top-Down oder Bottom-Up
-- Tunnelblick, Change Blindness
 
 == Gestaltungsgesetze (Gestalt Theory)
 
