@@ -343,3 +343,49 @@
 - Strukturierter Output
 - Langfristig
 - In Situ / Snippet
+
+#place(end)[[2025-11-24 VL06]]
+= Anforderungen
+
+- Erfordernis
+- Nutzungsanforderung
+  - Qualitativ
+    - Der Benutzer muss am System ... erkennen können
+  - Quantitativ
+    - Effektivitätsmaß
+      - 95% der neuen Benutzer müssen in der Lage sein, die App zu installieren
+    - Effizienzmaß
+      - ... innerhalb von 5 min
+
+= Gestaltungslösungen
+
+== Mentale Modelle
+
+_TODO_ Video anschauen s36
+
+- Modelle
+  - Mental Model
+  - Represented Model
+  - System Model
+- Affordances (Gebrauchseingenschaft)
+- Signifiers
+
+== Interaktionsprinzipien
+
+- Selbstbeschreibungsfähigkeit
+- Erwartungskonformität
+- Erlernbarkeit
+- Steuerbarkeit
+- Robustheit gegen Benutzungsfehler
+- User Engagement
+
+== Low-Fidelity Prototypes
+
+- Sketches
+- Wireframe
+- Informationsarchitektur
+  - Hierarchische Navigation
+  - Hub & Spoke
+  - Nested Doll
+  - Tabbed View
+  - Filter
