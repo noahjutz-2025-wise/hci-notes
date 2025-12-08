@@ -428,14 +428,6 @@ Anfang Designprozess _open_, zum Schluss _closed_.
 - *Organismus:* Nahe aneinander liegende Komponenten, z.B. Header
 - *Templates:* Gerüst der gesamten Seite
 
-= Gestaltungsrichtlinien
-
-- *Jakob's Law:* Users spend most of their time on other websites, not your website.
-  Therefore, they decide the conventions you have to abide by.
-- *Fitt's Law:* Interaktionsraum. $"Fläche" times "Distanz" -> "Zeit"$
-- *Hick's Law:* Cognitive Load
-  - _TODO_ Video anschauen
-
 = 10 Usability Heuristics
 
 - Rule of thumb
@@ -451,3 +443,36 @@ Anfang Designprozess _open_, zum Schluss _closed_.
 + Ästhetisches und minimalistisches Design
 + Hilfestellung beim Erkennen, Bewerten und Beheben von Fehlern
 + Hilfe und Dokumentation
+
+= Gestaltungsrichtlinien
+
+- *Jakob's Law:* Users spend most of their time on other websites, not your website.
+  Therefore, they decide the conventions you have to abide by.
+- *Fitt's Law:* Interaktionsraum. $"Fläche" times "Distanz" -> "Zeit"$
+- *Hick's Law:* Cognitive Load
+  - _TODO_ Video anschauen
+- *Tesler's Law:* Jedes System hat eine gewisse Komplexität
+#place(end)[[2025-12-08 VL08]]
+- Von Restorff
+- Peak-End Rule / Serial Position Effect
+- Negative Peaks
+- Aesthetic Usability Effect
+- *Doherty Threshold:* 400ms oder weniger warten
+
+= Low-Fidelity Prototype
+- Besteht aus:
+    - Scribbles
+    - Wireframes
+    - Sitemap
+- Navigation und Hauptfunktionen
+- Strukturelles Feedback (keine Farben, Fonts, ...)
+- Nachteile
+    - Evaluation: Fehler in der Verwendung könnten aufgrund Abstraktionsgrad auftreten
+
+== Tipps für gute Gestaltung
+
+- Above the fold
+- F-/Z-Schema
+- Fibonacci
+
+== Style Guide
