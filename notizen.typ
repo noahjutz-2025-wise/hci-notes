@@ -514,3 +514,12 @@ Anfang Designprozess _open_, zum Schluss _closed_.
                 Einzelne Zettel verwenden; randomisiert und keine spoiler.
             ]
     + Fragebogen, Interview
+
+#place(end)[[2026-01-12 VL10]]
+= Weitere Evaluationsmethoden
+
+- 5 Second Usability Test
+- A/B Test
+- Multivariate Testing (Version A, B, C, D + Kombinationen)
+- Heuristische Evaluation
+- Cognitive Walkthrough
